@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="horizontal">
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/users_images"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        app:civ_border_color="@color/white"
+        android:src="@drawable/default_profile"
+        app:civ_border_width="2dp"/>
+
+    <RelativeLayout
+        android:id="@+id/relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical"
+        android:padding="4dp">
+
+        <TextView
+            android:id="@+id/name"
+            android:hint="name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft ="true"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/age"
+            android:hint="age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft ="true"
+            android:layout_below="@+id/name"/>
+
+        <TextView
+            android:id="@+id/sex"
+            android:hint="sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/age"/>
+
+        <TextView
+            android:id="@+id/distance"
+            android:hint="distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below ="@+id/sex"/>
+
+        <TextView
+            android:id="@+id/lastOnline"
+            android:hint="online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_alignParentRight="true" />
+
+        <TextView
+            android:id="@+id/new_message"
+            android:hint="155"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sex"
+            android:background="@drawable/shape_new_message"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoronaMessangerUni</string>
+    <string name="user_sign_up_successful">User is Successful!</string>
+    <string name="sign_up_failed">Sign up failed! : %1$s</string>
+    <string name="user_created_successfully">User was created successfully</string>
+    <string name="failed_to_update_username">Failed to update profile : %1$s</string>
+    <string name="login_with_email_failure">signInWithEmail failure : %1$s</string>
+    <string name="auth_failed">Authentication failed!</string>
+    <string name="sign_in_success">signInWithEmail : success!</string>
+    <string name="account_settings">Profile settings</string>
+    <string name="search">"Searching "</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Passwort</string>
+    <string name="log_in">Log In</string>
+    <string name="press_to_start_search">Press to start search</string>
+    <string name="location_permission">Make permission for location</string>
+    <string name="age_users_activity">Age:</string>
+    <string name="search_male">Male</string>
+    <string name="search_female">Female</string>
+    <string name="online">online</string>
+    <string name="last_online_no_data">last online: no data</string>
+    <string name="last_online">last online:</string>
+    <string name="distance_users_activity">Distance:</string>
+    <string name="km_users_activity">km</string>
+    <string name="m_users_activity">m</string>
+    <string name="user_profile_was_updated_succesful">user profile was updated : successful</string>
+    <string name="access_permision_is_required">access permision is required</string>
+    <string name="please_enter_email">Please enter email id</string>
+    <string name="please_enter_password">Please enter your password</string>
+    <string name="please_enter_confirm_password">Please enter your password</string>
+    <string name="please_enter_correct_email">Please enter correct Email</string>
+    <string name="password_must_be_longer">Please enter password at least 5 characters</string>
+    <string name="please_enter_korrect_password">Please enter correct Password</string>
+    <string name="please_enter_valid_name">Please enter your name, at least 5 character</string>
+    <string name="current_user">current User is null</string>
+    <string name="update_profile_success">updateUserprofile task:success</string>
+    <string name="write_data_to_firebase">new users data are whiten to firebase task:success</string>
+    <string name="make_permission">make a permission : fine location</string>
+</resources>

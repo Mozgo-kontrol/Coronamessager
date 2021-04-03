@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676747669295",
+    "firebase_url": "https://coron3-39756-default-rtdb.firebaseio.com",
+    "project_id": "coron3-39756",
+    "storage_bucket": "coron3-39756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676747669295:android:0ee13abc5acc957ec73bda",
+        "android_client_info": {
+          "package_name": "com.alifmrdb.coronamessangeruni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676747669295-r4nj69m7chhe6u85s3pp8n4sr8pmou4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alifmrdb.coronamessangeruni",
+            "certificate_hash": "f3744a7f53868c29040120351c3250ec5c022fb9"
+          }
+        },
+        {
+          "client_id": "676747669295-gn6qorskpqqjcffcem68gb0argkl80t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92wyjKNhR2O6gyXTwIZKAcn5g7zl9N6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676747669295-gn6qorskpqqjcffcem68gb0argkl80t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
