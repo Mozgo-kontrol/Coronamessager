@@ -28,7 +28,7 @@ public class LoginActivity extends AppCompatActivity {
     private Button loginButton;
     private EditText inputEmail;
     private EditText inputPassword;
-    //analistic
+
     private FirebaseAnalytics mFirebaseAnalytics;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,6 +54,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
 
+
             Bundle bundle = new Bundle();
             bundle.putString(FirebaseAnalytics.Param.METHOD, "signInWithEmailAndPassword");
             mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.LOGIN, bundle);
@@ -70,7 +71,7 @@ public class LoginActivity extends AppCompatActivity {
             } else {
                 AlertDialog delete_entry = new AlertDialog.Builder(LoginActivity.this).setTitle("Error").setMessage("Your email or password is not valid.")
 
-                        // Specifying a listener allows you to take an action before dismissing the dialog.
+
                         // The dialog is automatically dismissed when a dialog button is clicked.
                         .setPositiveButton(android.R.string.yes, new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialog, int which) {
