@@ -1,6 +1,6 @@
 # Hoodie (Coronamessager)
 
-Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backend and **Firebase** for storing data.
+Hi! This is our uni projekt. We have created it with **Java** for backend and **Firebase** for storing data.
 <br>
 
 ## Features
@@ -9,8 +9,7 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 - Update user account.
 - Apply filters for searching distance.
 - Find user lokation
-- storing user data into Firebase
-
+- Storing data in the Firebase
 
 ## Technology
 
