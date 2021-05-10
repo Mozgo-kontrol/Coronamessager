@@ -1,4 +1,4 @@
-# Coronamessager
+# Hoodie (Coronamessager)
 
 Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backend and **Firebase** for storing data.
 <br>
@@ -20,7 +20,7 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 - XML
 - Gradle
 
-## Screenshots
+## Video
 
 <a href='https://youtu.be/bevE-gy4SuU' target='_blank'>
 <img class='header-img' src='./docs/Hoodie-Film_Moment.jpg'/>
