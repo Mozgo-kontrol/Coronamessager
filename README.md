@@ -23,5 +23,8 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 ## Screenshots
 https://youtu.be/bevE-gy4SuU
 <img src="https://youtu.be/bevE-gy4SuU" alt=""/>
+<a href='https://youtu.be/bevE-gy4SuU' target='_blank'>
+<img class='header-img' src='' />
+</a>
 <br>
 
