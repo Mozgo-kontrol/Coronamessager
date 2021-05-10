@@ -18,7 +18,7 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 - Material UI
 - FirebaseCancel changes
 - XML
-- Gradle
+- Gradle-Android
 
 ## Video
 
