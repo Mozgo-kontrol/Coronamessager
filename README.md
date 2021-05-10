@@ -1,10 +1,6 @@
 # Coronamessager
 
-Hi! I'm Igor, . This is a uni projekt .
-I have created it with **Java** for backend and **Firebase** for storing data.
-<br>
-<br>
-
+Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backend and **Firebase** for storing data.
 <br>
 
 ## Features
