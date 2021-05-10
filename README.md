@@ -23,7 +23,7 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 ## Screenshots
 
 <a href='https://youtu.be/bevE-gy4SuU' target='_blank'>
-<img class='header-img' src='https://drive.google.com/file/d/1Zpjf-PVxnbSjgpr2FFG_X0DZoktu2u--/view?usp=sharing'/>
+<img class='header-img' src='./doc/Hoodie-Film_Moment.jpg'/>
 </a>
 <br>
 
