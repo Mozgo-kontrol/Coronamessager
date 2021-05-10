@@ -9,10 +9,10 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 - Update user account.
 - Apply filters for searching distance.
 - Find user lokation
-- save user info to Firebase
+- storing user data into Firebase
 
 
-##  NPM Packages Used
+## Technology
 
 - Java
 - Material UI
