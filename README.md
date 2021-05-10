@@ -1,11 +1,9 @@
 # Coronamessager
 
-Hi! I'm Igor, a **MERN Stack Developer**. This is a clone of popular e-commmerce website **Amazon**.
-I have created it with **React** in frontend,  **Node and Express** for backend and **MongoDB** for storing data.
+Hi! I'm Igor, . This is a uni projekt .
+I have created it with **Java** for backend and **Firebase** for storing data.
 <br>
 <br>
-//> ### Web App Link -
-
 
 <br>
 
@@ -23,6 +21,7 @@ I have created it with **React** in frontend,  **Node and Express** for backend 
 - Java
 - Material UI
 - Firebase
+- XML
 - Gradle
 
 ## Screenshots
