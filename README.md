@@ -22,14 +22,6 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 
 ## Screenshots
 
-<img src="./screenshots/ss1.png" alt=""/>
+<img src="https://youtu.be/bevE-gy4SuU" alt=""/>
 <br>
-<img src="./screenshots/ss2.png" alt=""/>
-<br>
-<img src="./screenshots/ss3.png" alt=""/>
-<br>
-<img src="./screenshots/ss4.png" alt=""/>
-<br>
-<img src="./screenshots/ss5.png" alt=""/>
-<br>
-<img src="./screenshots/ss6.png" alt=""/>
+
