@@ -21,7 +21,7 @@ Hi! I'm Igor, This is a uni projekt. We have created it with **Java** for backen
 - Gradle
 
 ## Screenshots
-
+https://youtu.be/bevE-gy4SuU
 <img src="https://youtu.be/bevE-gy4SuU" alt=""/>
 <br>
 
