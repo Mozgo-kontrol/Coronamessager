@@ -5,9 +5,9 @@ Hi! This is our uni projekt. We have created it with **Java** for backend and **
 
 ## Features
 
-- Register or login as an user.
-- Update user account.
-- Apply filters for searching distance.
+- Register or login as an user
+- Update user account
+- Apply filters for searching distance
 - Find user lokation
 - Storing data in the Firebase
 
