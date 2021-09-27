@@ -1,6 +1,6 @@
 # Hoodie (Coronamessager)
 
-Hi! This is our uni projekt. We have created it with **Java** for backend and **Firebase** for storing data.
+Hi! This is our uni projekt. We have created it with **Java** for frontend and **Firebase** for storing data for backend.
 <br>
 
 ## Features
