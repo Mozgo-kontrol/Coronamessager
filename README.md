@@ -1,24 +1,23 @@
 # Hoodie (Coronamessager)
-
-Hi! This is our uni projekt. We have created it with **Java** for frontend and **Firebase** for storing data for backend.
+Hi! This is our university project. We developed it using Java for the frontend and Firebase for data storage.
 <br>
 
 ## Features
-
-- Register or login as an user
-- Update user account
-- Apply filters for searching distance
-- Find user lokation
-- Storing data in the Firebase
+Store and manage data in Firebase.
+- Register or login a user
+- Update user account details
+- Apply filters for searching by distance
+- Find and display user location
+- Store and manage data in Firebase
 
 ## Technology
 
 - Java
 - Material UI
-- FirebaseCancel changes
+- Firebase
 - XML
 - Gradle-Android
-
+  
 ## Video
 
 <a href='https://youtu.be/bevE-gy4SuU' target='_blank'>
