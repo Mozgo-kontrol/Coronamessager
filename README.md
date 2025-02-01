@@ -1,5 +1,5 @@
 # Hoodie (Coronamessager)
-Hi! This is our university project. We developed it using Java for the frontend and Firebase for data storage.
+Hi! This is our university project. We developed an Android application using Java and Firebase, utilizing Material UI and XML for the UI design, with the successful implementation of a fully functional prototype and the integration of a cloud-based database.
 <br>
 
 ## Features
