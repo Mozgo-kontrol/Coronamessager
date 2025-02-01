@@ -7,7 +7,7 @@ Store and manage data in Firebase.
 - Register or login a user
 - Update user account details
 - Apply filters for searching by distance
-- Find and display user location
+- manage user location
 - Store and manage data in Firebase
 
 ## Technology
